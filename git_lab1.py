@@ -1,0 +1,1 @@
+print("Pierwsze lab z git")
